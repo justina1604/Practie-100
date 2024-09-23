@@ -7,6 +7,5 @@ public class PracticeGutHib {
 		System.out.println("This is GitHub practice");
 	}
 
-	System.out.println("This is message from GitHub") 
 
 }
